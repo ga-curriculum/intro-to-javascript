@@ -16,7 +16,6 @@ This module introduces basic concepts in JavaScript.
 | [Variables](./variables/README.md) | --- | [tktk Link]() | Understand the basics of JavaScript variables, including naming conventions and the difference between let and const. |
 | [Primitive Data Types](./primitive-data-types/README.md) | --- | [tktk Link]() | Declare and use primitive data types in JavaScript. |
 | [Reference Data Types](./reference-data-types/README.md) | --- | [tktk Link]() | Create and use objects in JavaScript. |
-| [Review Questions](./review-questions/README.md) | --- | [tktk Link]() | Test your knowledge of JavaScript basics. |
 |  **Total Module**                                        | tktk min | --            | ---     |
 
 ## Additional content 
