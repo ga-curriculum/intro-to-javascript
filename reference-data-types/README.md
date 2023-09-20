@@ -35,3 +35,4 @@ let myFunction = function(){}
 console.log(typeof myFunction)
 ```
 
+> ❓ If a variable is not a string, number, boolean, null, undefined, bigint, or a symbol, it must be an _________.

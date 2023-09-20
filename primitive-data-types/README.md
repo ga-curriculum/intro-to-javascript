@@ -22,7 +22,8 @@ console.log(typeof myString)
 ```
 Note that the `typeof` operator itself always returns a string describing the data type.
 
-> 🧠 **ES2015 Note**: In addition to using single and double quotes to delimit a string, ES2015 adds a third way by using the back-tick character to create what's called a template literal.  We'll learn more about template literals later in the course.
+
+> ❓ Is let _save = '' a valid statement?
 
 
 ### number
@@ -107,4 +108,6 @@ Added with ES2015, a `bigint` value can hold a massive integer value but it is n
 let ourBigInt = 15n
 console.log(typeof ourBigInt)
 ```
+
+> ❓ Do all variables have a data type?
 
