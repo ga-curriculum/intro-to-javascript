@@ -1,6 +1,6 @@
 # Intro to JavaScript - Primitive Data Types
 
-JavaScript has seven primitive data types, five of which are **common**, and two of which are **uncommon**.
+Primitive tyes are data types that are stored directly in memory. JavaScript has seven primitive data types, five of which are **common**, and two of which are **uncommon**.
 
 ## Common primitive data types
 
