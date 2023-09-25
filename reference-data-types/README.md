@@ -4,7 +4,13 @@ The seven data types we've looked at thus far are classified as **primitive/valu
 
 Most programming languages also have **complex/reference** data types designed to hold more complex data structures.
 
-JavaScript only has one **reference** type - the **object**.
+JavaScript only has one **reference** type - the **object**. That being said, there are several types of objects in JavaScript:
+
+  - Array
+  - Object
+  - Function
+  - RegEx
+  - Date
 
 ## Objects
 

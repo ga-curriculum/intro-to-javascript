@@ -2,7 +2,7 @@
 
 ## What is JavaScript?
 
-JavaScript is a powerful and versatile programming language that can be used to create interactive web pages, as well as server, mobile, and desktop applications. It is a high-level language, which means that it is relatively easy to learn and use, even for beginners.
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a powerful and versatile programming language that can be used to create interactive web pages, as well as server, mobile, and desktop applications. It is a high-level language, which means that it is relatively easy to learn and use, even for beginners.
 
 JavaScript, along with **HTML** and **CSS**, is one of the three essential technologies used to create web pages. HTML defines the structure of a web page, CSS styles the page, and JavaScript adds interactivity.
 
