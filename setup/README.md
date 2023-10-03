@@ -1,9 +1,9 @@
 # Setup
 
-Open your Terminal application and navigate to your ~/code/sei/lectures directory:
+Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
 ```bash
-cd ~/code/sei/lectures
+cd ~/code/ga/lectures
 ```
 Make a new directory called `intro-to-js`, then enter this directory:
 
@@ -12,7 +12,7 @@ mkdir intro-to-js
 cd intro-to-js
 ```
 
-Then, create an app.js and an index.html file. These files will hold your work for this lecture:
+Then, create an `app.js` and an `index.html` file. These files will hold your work for this lecture:
 
 
 ```bash
@@ -24,7 +24,7 @@ With the files created, open the contents of the directory in VS Code:
 code .
 ```
 
-Open the index.html file and add HTML boilerplate. Then make use of the app.js file by adding this line inside the `<head>` tag:
+Open the `index.html` file and add HTML boilerplate by typing `!` and then hitting the `Tab` key. Then make use of the `app.js` file by adding this line inside the `<head>` tag:
 
 ```html
 <script defer src="./app.js"></script>
