@@ -8,8 +8,8 @@ This module introduces basic concepts in JavaScript.
 
 ## Content outline
 
-| Lesson | Video Time | Video | Learning Objective |
-| ------ |:----------:|:-----:| ------------------ |
+| Lesson | Video Time | Video | Topics Covered |
+| ------ |:----------:|:-----:| -------------- |
 | [Setup](./setup/README.md) | --- | [tktk Link]() | --- |
 | [Concepts](./concepts/README.md) | --- | [tktk Link]() | Define JavaScript and explain its purpose. |
 | [Fundamentals](./fundamentals/README.md) | --- | [tktk Link]() | Learn the basics of JavaScript programming, including code comments, code execution, and console output. |
