@@ -1,4 +1,6 @@
-# History of JavaScript
+# Intro to JavaScript - Level Up - History of JavaScript
+
+![Hero image](./assets/hero.png)
 
 JavaScript is a high-level, client-side programming language used for web development. While HTML provides the structure of a website, and CSS defines its appearance, Javascript is the language that makes a site dynamic and interactive.
 

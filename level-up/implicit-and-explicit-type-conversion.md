@@ -1,4 +1,6 @@
-# Implicit and Explicit Type Conversion
+# Intro to JavaScript - Level Up - Implicit and Explicit Type Conversion
+
+![Hero image](./assets/hero.png)
 
 ## Type Conversion
 

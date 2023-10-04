@@ -1,4 +1,6 @@
-# Primitive vs. Reference Types
+# Intro to JavaScript - Level Up - Primitive vs. Reference Types
+
+![Hero image](./assets/hero.png)
 
 As we learned in the [Primitive Data Types](../primitive-data-types/README.md) and [Reference Data Types](../reference-data-types/README.md) lectures, primitive types are JavaScript data types that are stored directly in memory, and referece types store a reference to an object in memory. 
 

@@ -1,4 +1,6 @@
-# Dynamic vs. Static Typed Languages
+# Intro to JavaScript - Level Up - Dynamic vs. Static Typed Languages
+
+![Hero image](./assets/hero.png)
 
 *Dynamically-typed* languages such as JavaScript, Python, and Ruby allow variables to be assigned different types of data during runtime (as the program executes). 
 

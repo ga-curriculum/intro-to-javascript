@@ -1,5 +1,7 @@
 # Intro to JavaScript - Reference
 
+![Hero image](./assets/hero.png)
+
 ## Lesson References
 
 Links from the module lesson content:

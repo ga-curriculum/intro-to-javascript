@@ -1,5 +1,7 @@
 # Intro to JavaScript - Fundamentals
 
+![Hero image](./assets/hero.png)
+
 ## Making Comments
 
 In JavaScript and many other programming languages, we can make our more readable and maintainable for ourselves and others by writing **comments**. Comments are pieces of tiext that are ignored by the JavaScript interpreter.

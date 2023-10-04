@@ -1,5 +1,7 @@
 # Intro to JavaScript - Reference Data Types
 
+![Hero image](./assets/hero.png)
+
 The seven data types we've looked at thus far are classified as **primitive/value** data types because they hold only a **single value**.
 
 Most programming languages also have **complex/reference** data types designed to hold more complex data structures.

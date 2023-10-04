@@ -1,5 +1,7 @@
 # Intro to JavaScript - Concepts
 
+![Hero image](./assets/hero.png)
+
 ## What is JavaScript?
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a powerful and versatile programming language that can be used to create interactive web pages, as well as server, mobile, and desktop applications. It is a high-level language, which means that it is relatively easy to learn and use, even for beginners.

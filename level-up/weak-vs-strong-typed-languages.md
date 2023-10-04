@@ -1,4 +1,6 @@
-# Weakly vs. Strongly Typed Languages
+# Intro to JavaScript - Level Up - Weakly vs. Strongly Typed Languages
+
+![Hero image](./assets/hero.png)
 
 *Weakly-typed* languages such as JavaScript allow implicit conversions between types, which can lead to interesting results. For example:
 
