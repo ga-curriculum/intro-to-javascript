@@ -2,6 +2,8 @@
 
 ![Hero image](./assets/hero.png)
 
+**Learning objective:** By the end of this lesson, students will be able to declare and use primitive data types in JavaScript.
+
 Primitive tyes are data types that are stored directly in memory. JavaScript has seven primitive data types, five of which are **common**, and two of which are **uncommon**.
 
 ## Common primitive data types

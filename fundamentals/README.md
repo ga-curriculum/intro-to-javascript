@@ -2,6 +2,8 @@
 
 ![Hero image](./assets/hero.png)
 
+**Learning objective:** By the end of this lesson, students will learn the basics of JavaScript programming including comments, execution, and outputting results to the console.
+
 ## Making Comments
 
 In JavaScript and many other programming languages, we can make our more readable and maintainable for ourselves and others by writing **comments**. Comments are pieces of tiext that are ignored by the JavaScript interpreter.

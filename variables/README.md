@@ -1,5 +1,9 @@
 # Intro to JavaScript - Variables
 
+![Hero image](./assets/hero.png)
+
+**Learning objective:** By the end of this lesson, students will understand the basics of JavaScript variables, including naming convetions and the difference between `let` and `const`.
+
 ## Concepts
 
 The purpose of a [*variable*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#declarations) in programming is to hold or reference data. 

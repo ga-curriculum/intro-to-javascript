@@ -2,6 +2,8 @@
 
 ![Hero image](./assets/hero.png)
 
+**Learning objective:** By the end of this lesson, students will be able to define JavaScript and explain its purpose.
+
 ## What is JavaScript?
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a powerful and versatile programming language that can be used to create interactive web pages, as well as server, mobile, and desktop applications. It is a high-level language, which means that it is relatively easy to learn and use, even for beginners.
@@ -18,8 +20,6 @@ The following graph shows the top languages on GitHub over time.
 
 JavaScript is the only programming language that can be used directly in web browsers, so it has become increasingly popular as web-based applications have become more common.
 
-
-
 ## Why use JavaScript?
 
 There are a lot of reasons that we use JavaScript, including:
@@ -30,7 +30,7 @@ There are a lot of reasons that we use JavaScript, including:
 
   - **It's the most popular language for web development**. JavaScript is used by millions of developers around the world to create dynamic and interactive web pages and applications. 
 
-  -  **It's lightweight**. This means it doesn't require a lot of resources to run. 
+  - **It's lightweight**. This means it doesn't require a lot of resources to run. 
 
   - **It's constantly evolving**. New improvements and features are constantly being added to JavaScript. 
 

@@ -2,6 +2,8 @@
 
 ![Hero image](./assets/hero.png)
 
+**Learning objective:** By the end of this lesson, students will be able to create and use objects in JavaScript.
+
 The seven data types we've looked at thus far are classified as **primitive/value** data types because they hold only a **single value**.
 
 Most programming languages also have **complex/reference** data types designed to hold more complex data structures.
