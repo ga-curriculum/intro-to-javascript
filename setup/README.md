@@ -32,11 +32,12 @@ Open the `index.html` file and add HTML boilerplate by typing `!` and then hitti
 <script defer src="./app.js"></script>
 ```
 
-With this setup complete, we'll have two methods at our disposal for executing the code we write in app.js:
+With this setup complete, we'll have two methods at our disposal for executing the code we write in `app.js`:
 
-  - Open the index.html file in your browser and access the console output in your browser's dev tools.
+- Open the `index.html` file in your browser and access the console output in your browser's dev tools.
 
-  - Use node to execute the app.js file directly by using this command in your terminal:
+- Use node to execute the `app.js` file directly by using this command in your terminal:
+
   ```bash
   node app.js
   ```

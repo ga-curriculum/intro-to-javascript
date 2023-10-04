@@ -15,6 +15,7 @@ This module introduces basic concepts in JavaScript.
 | [Fundamentals](./fundamentals/README.md)                 | --- | --- | Learn the basics of JavaScript programming, including code comments, code execution, and console output.              |
 | [Variables](./variables/README.md)                       | --- | --- | Understand the basics of JavaScript variables, including naming conventions and the difference between let and const. |
 | [Primitive Data Types](./primitive-data-types/README.md) | --- | --- | Declare and use primitive data types in JavaScript.                                                                   |
+| [Template Literals](./template-literals/README.md)       | --- | --- | Use template literals to combine strings in JavaScript.                                                               |
 | [Reference Data Types](./reference-data-types/README.md) | --- | --- | Create and use objects in JavaScript.                                                                                 |
 |  **Total Module**                                        | --- | --- | ---                                                                                                                   |
 

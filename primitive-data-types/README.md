@@ -4,114 +4,99 @@
 
 **Learning objective:** By the end of this lesson, students will be able to declare and use primitive data types in JavaScript.
 
-Primitive tyes are data types that are stored directly in memory. JavaScript has seven primitive data types, five of which are **common**, and two of which are **uncommon**.
+## Primitive data types
 
-## Common primitive data types
+Primitive types are data types that are stored directly in memory. JavaScript has seven primitive data types, five of which are common and two of which are uncommon.
 
 Here are the common primitive data types in JavaScript:
 
-  - Boolean
-  - Null
-  - Undefined
-  - Number
-  - String
+- String
+- Number
+- Boolean
+- Null
+- Undefined
 
 ### string
-A **string** represents textual data with zero or more characters wrapped by single or double quotation marks such as `"John"` or `'Jane'`. A pair of quotes with nothing between them is still a **string** - an empty *string*.
+
+A string represents textual data with zero or more characters wrapped by single or double quotation marks, such as `"John"` or `'Jane'`. Either can be used; just be consistent in your code. A pair of quotes with nothing between them is still a string. Specifically, this is an empty string.
 
 ```js
-let myString = 'Hello World'
-let myOtherString = "Hello World"
-console.log(typeof myString)
+let myString = 'Hello World';
+let myOtherString = "Hello World again";
+console.log(typeof myString);
+// Prints: string
 ```
-Note that the `typeof` operator itself always returns a string describing the data type.
 
-
-> ❓ Is let _save = '' a valid statement?
-
+Note that the `typeof` operator returns a string describing the data type.
 
 ### number
-A **number** represents a numeric value.
+
+A number represents a numeric value.
 
 Unlike many other programming languages, there is no distinction between integer (`15`, `3`, etc.) and floating-point/decimal types (`17.24`, `3.1416`, etc.).
 
-Internally, JS represents all numbers as floating-point values.
+Internally, JavaScript represents all numbers as floating-point values.
 
 ```js
-let myNumber = 15
-console.log(typeof myNumber)
+let myNumber = 15;
+console.log(typeof myNumber);
+// Prints: number
 ```
 
 > ❓ What will the following code print to the console?
-
-```js
-console.log(typeof 12.34)
-```
+>
+> ```js
+> console.log(typeof 12.34);
+> ```
 
 ### boolean
-Whereas strings and numbers can have a virtually unlimited number of different values, the **boolean** data type only has two possible values: `true` and `false`.
+
+Whereas strings and numbers can have a virtually unlimited number of different values, the boolean data type only has two possible values: `true` and `false`.
 
 ### null
-The null data type has only one value: `null`. null is the value of a variable that explicitly has no value. Thus, it represents a lack of value. However...
+
+The null data type has only one value: `null`. null is the value of a variable that explicitly has no value. Thus, it represents a lack of value. That said, `null` does have some strange behavior:
 
 ```js
-console.log(typeof null) // "object" 
+console.log(typeof null);
+// Prints: object 
 ```
-Fail! JS was written in 10 days by one dude, so there are bound to be some issues. 
 
-Because of this behavior, the use of null is somewhat controversial in the JavaScript community.
+Wait, what? This is a known bug within JavaScript, but it remains to this day because many applications  that depend on this (incorrect) behavior have been written. 
+
+Because of this, the use of `null` is somewhat controversial in the JavaScript community.
 
 ### undefined
+
 A variable that has not been assigned a value is of type `undefined`. For example:
 
 ```js
-let cohort // cohort currently holds undefined
-console.log(cohort)
-```
-
-In addition, a function by default returns `undefined` if a value was not explicitly returned using the `return` keyword.
-
-Lastly, you will see `undefined` if you enter code directly into the browser’s console and it evaluates a statement that does not return a value.
-
-```js
-console.log(typeof undefined)
-console.log('hello')
-```
-
-
-## You do 💪: Data type examples
-**Strings**, **numbers**, and **booleans** are the most common data types used to "model" real-world data in applications.
-
-For example, in a multiplayer gaming app, we would represent a player's Gamertag using a **string**.
-
-Before moving on to review the other data types, let's brainstorm a couple of examples for each of the three common data types that would be used to represent information in that gaming app:
-
-#### Gaming app data types
-| Data Type | Example Data/Information |
-| ------ |:----------:|
-| **String** | gamerTag,           |
-| **Number** |                     |
-| **Boolean** |                    |
-
-## Uncommon primitive data types
-
-Here are the uncommon primitive data types in JavaScript:
-
-  - Symbol
-  - BigInt
-
-### symbol
-The *symbol* data type was added with ES2015 and is primarily used to create unique and less visible properties on objects.
-
-Their use is rare in general JavaScript programming.
-
-### BigInt
-Added with ES2015, a `bigint` value can hold a massive integer value but it is not commonly needed or used - primarily because it is incompatible with the `number` type and none of the `Math` object's methods work with it.
-
-```js
-let ourBigInt = 15n
-console.log(typeof ourBigInt)
+let cohort;
+console.log(cohort);
+// Prints: undefined
 ```
 
 > ❓ Do all variables have a data type?
 
+## 🧠 You do 
+
+Strings, numbers, and booleans are the most common data types used to model real-world application data.
+
+For example, in a multiplayer gaming app, we would represent a player's name using a string.
+
+Let's brainstorm a couple of examples for each of the three common data types that would be used to represent information in that gaming app:
+
+| Data Type   | Example Data/Information |
+| ----------- | ------------------------ |
+| **String**  | playerName               |
+| **Number**  |                          |
+| **Boolean** |                          |
+
+## Uncommon primitive data types
+
+There are two uncommon primitive data types in JavaScript:
+
+- Symbol
+- BigInt
+
+They're so uncommon that we won't dive into them here. You're unlikely to encounter them in most circumstances.
