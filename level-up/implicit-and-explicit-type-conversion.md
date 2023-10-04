@@ -42,22 +42,22 @@ To convert into strings:
 - using the `toString()` method
 
   ```js
-  let n = 123.456;
-  let s1 = n.toString(); // "123.456"
+  let numOne = 123.456;
+  let strOne = n.toString(); // "123.456"
   ```
 
 - using the `String()` method
 
   ```js
-  let n = 123.456;
-  let s1 = String(n); // "123.456"
+  let numTwo = 123.456;
+  let strTwo = String(n); // "123.456"
   ```
 
 - using the `toFixed()` method
 
   ```js
-  let n = 123.456;
-  let s1 = n.toFixed(2); // "123.46"
+  let numThree = 123.456;
+  let strThree = n.toFixed(2); // "123.46"
   ```
 
   Note that we must specify the number of decimals we want inside the `()`'s.
@@ -67,23 +67,23 @@ To convert into numbers:
 - using the `parseInt()` method 
 
   ```js
-  let s = '1234.567';
-  let n1 = parseInt(s); // 1234
+  let strFour = '1234.567';
+  let numFour = parseInt(s); // 1234
   ```
   `parseInt()` rounds down to the nearest whole number. 
 
 - using the `parseFloat()` method
 
   ```js
-  let s = '1234.567';
-  let n = parseFloat(s); // 1234.567
+  let strFive = '1234.567';
+  let numFive = parseFloat(s); // 1234.567
   ```
 
 - using the `Number()` method
 
   ```js
-  let s = '1234.567';
-  let n = Number(n); // 1234.567
+  let strSix = '1234.567';
+  let numSix = Number(n); // 1234.567
   ```
 
 ## When to use implicit and explicit type conversion
