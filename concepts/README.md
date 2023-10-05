@@ -1,60 +1,38 @@
 # Intro to JavaScript - Concepts
 
+![Hero image](./assets/hero.png)
+
+**Learning objective:** By the end of this lesson, students will be able to define JavaScript and explain its purpose.
+
 ## What is JavaScript?
 
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a powerful and versatile programming language that can be used to create interactive web pages, as well as server, mobile, and desktop applications. It is a high-level language, which means that it is relatively easy to learn and use, even for beginners.
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (commonly abbreviated as JS) is a powerful and versatile programming language. It was created primarily to enhance web pages by making them interactive. It is a high-level language, meaning developers don't need to manage system-specific details as we write it.
 
-JavaScript, along with **HTML** and **CSS**, is one of the three essential technologies used to create web pages. HTML defines the structure of a web page, CSS styles the page, and JavaScript adds interactivity.
+JavaScript is the only programming language used directly in web browsers. This alone has made it increasingly popular as web-based applications have become more common. Its ubiquitous use in the browser has also fueled its proliferation out of the browser and into server, mobile, and desktop applications. 
 
-![Venn diagram of JS, HTML, & CSS](./assets/jsvenndiagram.png)
-
-The primary responsibility of JavaScript is to allow developers to implement behavior in web applications via a client-side script that runs in the browser.
-
-The following graph shows the top languages on GitHub over time.
+These attributes have all fueled JavaScript's explosive growth and sustained popularity through time. The following graph shows the top languages on GitHub since 2014, where JavaScript has steadily held the top position. When you visit a website in your browser, it almost always uses JavaScript in some form or fashion.
 
 ![Graph of the most popular languages on GitHub over time](./assets/language-pop.png)
 
-JavaScript is the only programming language that can be used directly in web browsers, so it has become increasingly popular as web-based applications have become more common.
-
-
+tktk Hunter, I just want to take the opportunity to celebrate that I don't think this graphic needs to be changed or updated in any way, which is probably a first?
 
 ## Why use JavaScript?
 
-There are a lot of reasons that we use JavaScript, including:
+There are a lot of reasons to learn JavaScript, including:
 
-  - **It's a versatile language**. JavaScript can be used for many different purposes, such as adding interactivity to web pages, commmunicating with web servers, and creating games and other applications. 
+- It's necessary for web development but also a versatile language that can do much more.
+- It's system and environment agnostic. This means it doesn't require a lot of resources to run.
+- It's under active development. New improvements and features are still added to JavaScript annually.
+- It's community support. If you're trying to accomplish something in JavaScript, someone has likely built a tool to help you achieve that task more efficiently.
 
-  - **It's easy to learn**. As a high-level language, JavaScript is relatively easy to read and write. 
+These reasons funnel into another important factor: jobs. As more job positions are filled, the community continues to grow, the usefulness of JavaScript expands, and even more job positions are created.
 
-  - **It's the most popular language for web development**. JavaScript is used by millions of developers around the world to create dynamic and interactive web pages and applications. 
+tktk Hunter, I feel like this is begging for a graphic a la the [Virtuous Economic Cycle](https://youtu.be/vT-zZsjwZKk?si=-lzJRg3xC4U90mOz&t=436).
 
-  -  **It's lightweight**. This means it doesn't require a lot of resources to run. 
+## JavaScript's role in web applications
 
-  - **It's constantly evolving**. New improvements and features are constantly being added to JavaScript. 
+JavaScript, along with HTML and CSS, is one of the three essential technologies used to create web apps. HTML defines the structure and content of a web page. CSS controls how the page is styled and presented. JavaScript adds interactivity and behavior.
 
-  - **It's supported by all major web browsers**. This allows JavaScript applications to be accessible to a wide audience. 
+![Venn diagram of JS, HTML, and CSS](./assets/js-venn-diagram.png)
 
-
-Here are some specific examples of how JavaScript is used:
-
-  - **Add interactivity to web pages**. We can use JS to create dynamic animations and effects, validate user input, and add interactive elements to web pages like forms, menus, and buttons. You see JavaScript every day in:
-    - The search bar on Amazon or Google 
-    - The embedded video in a news article
-    - The refreshing of your X feed 
-
-  - **Create interactive applications and games**. JS allows us to create engaging and complex applications without needing to download software. These popular apps were built with JavaScript:
-    - The browser game Angry Birds
-    - Google
-    - Slack web client
-  
-  - **Building *server-side* applications**. The framework **Node.js** (which we'll discuss more another time), is used to build scalable and efficient web applications like:
-    - Uber
-    - Netflix
-    - PayPal
-
-
-> 📚 *Server-side* refers to anything that happens on the remote server, like the code that interacts with databases and processes user requests. 
->
-> Javascript is also used to write *client-side* code, which refers to anything that happens on the user's device. Any code or resources that are downloaded to the user's browser and executed there are client-side. This code is responsible for what the user sees and interacts with on the page, like the event that occurs when you click a button on a webpage. 
-
-
+tktk Hunter, need to update this to say JavaScript instead of Javascript 😬. I kinda like the white though tbh (although I'm not sure if the text over it is accessible...).
