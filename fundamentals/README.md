@@ -32,6 +32,7 @@ You can write single-line comments on their own line or on the same line as code
 ```js
 console.log('Comments are great'); // I only ignore words written after me!
 ```
+> 🧠 VS Code can automatically comment line(s) of code for us by pressing `⌘ Command` + `/`  in macOS or `Ctrl` + `/` in Linux and Windows.
 
 ### Multi-line comments 
 
