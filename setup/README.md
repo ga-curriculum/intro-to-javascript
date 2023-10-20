@@ -1,6 +1,4 @@
-# Intro to JavaScript - Setup
-
-![Hero image](./assets/hero.png)
+# ![Intro to JavaScript - Setup](./assets/hero.png)
 
 Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 

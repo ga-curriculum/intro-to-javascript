@@ -1,6 +1,4 @@
-# Intro to JavaScript - Reference Data Types
-
-![Hero image](./assets/hero.png)
+# ![Intro to JavaScript - Reference Data Types](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will know of the reference data type in JavaScript.
 

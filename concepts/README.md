@@ -1,6 +1,4 @@
-# Intro to JavaScript - Concepts
-
-![Hero image](./assets/hero.png)
+# ![Intro to JavaScript - Concepts](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to define JavaScript and explain its purpose.
 
@@ -14,8 +12,6 @@ These attributes have all fueled JavaScript's explosive growth and sustained pop
 
 ![Graph of the most popular languages on GitHub over time](./assets/language-pop.png)
 
-tktk Hunter, I just want to take the opportunity to celebrate that I don't think this graphic needs to be changed or updated in any way, which is probably a first?
-
 ## Why use JavaScript?
 
 There are a lot of reasons to learn JavaScript, including:
@@ -27,12 +23,10 @@ There are a lot of reasons to learn JavaScript, including:
 
 These reasons funnel into another important factor: jobs. As more job positions are filled, the community continues to grow, the usefulness of JavaScript expands, and even more job positions are created.
 
-tktk Hunter, I feel like this is begging for a graphic a la the [Virtuous Economic Cycle](https://youtu.be/vT-zZsjwZKk?si=-lzJRg3xC4U90mOz&t=436).
+![JS Cycle](./assets/cycle.png)
 
 ## JavaScript's role in web applications
 
 JavaScript, along with HTML and CSS, is one of the three essential technologies used to create web apps. HTML defines the structure and content of a web page. CSS controls how the page is styled and presented. JavaScript adds interactivity and behavior.
 
 ![Venn diagram of JS, HTML, and CSS](./assets/js-venn-diagram.png)
-
-tktk Hunter, need to update this to say JavaScript instead of Javascript 😬. I kinda like the white though tbh (although I'm not sure if the text over it is accessible...).

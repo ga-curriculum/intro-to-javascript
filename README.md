@@ -1,6 +1,4 @@
-# Intro to JavaScript
-
-![Hero image](./assets/hero-main.png)
+# ![Intro to JavaScript](./assets/hero.png)
 
 ## Module overview
 

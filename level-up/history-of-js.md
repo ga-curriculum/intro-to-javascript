@@ -1,6 +1,4 @@
-# Intro to JavaScript - Level Up - History of JavaScript
-
-![Hero image](./assets/hero.png)
+# ![Intro to JavaScript - Level Up - History of JavaScript](./history-of-js.md)
 
 JavaScript emerged during the browser wars of the 1990s. Developers at Netscape were looking for features that could make them more competitive with Microsoft's Internet Explorer, which had a dominating market share.
 
