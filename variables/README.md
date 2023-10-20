@@ -1,6 +1,4 @@
-# Intro to JavaScript - Variables
-
-![Hero image](./assets/hero.png)
+# ![Intro to JavaScript - Variables](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will understand the basics of JavaScript variables, including naming conventions and the difference between `let` and `const`.
 

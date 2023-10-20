@@ -1,6 +1,4 @@
-# Intro to JavaScript - Reference
-
-![Hero image](./assets/hero.png)
+# ![Intro to JavaScript - References](./assets/hero.png)
 
 ## Lesson References
 

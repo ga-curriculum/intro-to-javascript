@@ -1,6 +1,4 @@
-# Intro to JavaScript - Template Literals
-
-![Hero image](./assets/hero.png)
+# ![Intro to JavaScript - Template Literals](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to combine strings using template literals in JavaScript.
 

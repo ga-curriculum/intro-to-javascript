@@ -1,6 +1,4 @@
-# Intro to JavaScript - Instructor Guide
-
-![Hero image](../assets/hero-secondary.png)
+# ![Intro to JavaScript - Instructor Guide](./assets/hero-instructor-guide.png)
 
 tktk
 

@@ -1,6 +1,4 @@
-# Intro to JavaScript - Level Up - Primitive vs. Reference Types
-
-![Hero image](./assets/hero.png)
+# ![Intro to JavaScript - Level Up - Primitive vs. Reference Types](./assets/hero-primitive-vs-reference.png)
 
 Some of the key differences between primitive and reference types in JavaScript are:
 
