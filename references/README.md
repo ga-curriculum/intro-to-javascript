@@ -1,4 +1,4 @@
-# ![Intro to JavaScript - Reference](./assets/hero.png)
+# ![Intro to JavaScript - References](./assets/hero.png)
 
 ## Lesson References
 
