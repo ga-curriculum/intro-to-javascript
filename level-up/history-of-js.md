@@ -1,5 +1,7 @@
 # ![Intro to JavaScript - Level Up - History of JavaScript](./assets/hero-history-of-javascript.png)
 
+**Learning objective:** By the end of this lesson, students will understand the history and evolution of JavaScript, from its origins at Netscape to its current status as a popular and versatile programming language.
+
 JavaScript emerged during the browser wars of the 1990s. Developers at Netscape were looking for features that could make them more competitive with Microsoft's Internet Explorer, which had a dominating market share.
 
 At the time, websites were largely static. Implementing some sort of language that could be executed client-side would make websites far more dynamic.

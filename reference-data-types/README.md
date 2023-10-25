@@ -1,6 +1,6 @@
 # ![Intro to JavaScript - Reference Data Types](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will know of the reference data type in JavaScript.
+**Learning objective:** By the end of this lesson, students will be able to list the reference data types in JavaScript.
 
 The seven data types we've looked at thus far are classified as primitive or value data types because they can hold only a single value.
 

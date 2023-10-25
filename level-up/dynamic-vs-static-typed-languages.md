@@ -1,5 +1,7 @@
 # ![Intro to JavaScript - Level Up - Dynamic vs. Static Typed Languages](./assets/hero-dynamic-vs-static-typed.png)
 
+**Learning objective:** By the end of this lesson, students will understand the fundamental difference between dynamically-typed and statically-typed programming languages, with examples from JavaScript and C++.
+
 *Dynamically-typed* languages such as JavaScript, Python, and Ruby allow variables to be assigned different types of data during runtime (as the program executes). 
 
 For example, in JavaScript, we can do this:

@@ -1,33 +1,40 @@
 # ![Intro to JavaScript](./assets/hero.png)
 
-## Module overview
+## About
 
-This module introduces basic concepts in JavaScript.
+This module offers a comprehensive introduction to JavaScript for learners at the beginner to intermediate level. Whether learners are new to programming or looking to enhance their JavaScript skills, this module provides a well-rounded foundation. 
+
+## Prerequisites 
+
+None
 
 ## Content outline
 
-| Lesson | Video Time | Video | Topics Covered |
-| ------ |:----------:|:-----:| -------------- |
-| [Setup](./setup/README.md)                               | --- | --- | ---                                                                                                                   |
-| [Concepts](./concepts/README.md)                         | --- | --- | Define JavaScript and explain its purpose.                                                                            |
-| [Fundamentals](./fundamentals/README.md)                 | --- | --- | Learn the basics of JavaScript programming, including code comments, code execution, and console output.              |
-| [Variables](./variables/README.md)                       | --- | --- | Understand the basics of JavaScript variables, including naming conventions and the difference between let and const. |
-| [Primitive Data Types](./primitive-data-types/README.md) | --- | --- | Declare and use primitive data types in JavaScript.                                                                   |
-| [Template Literals](./template-literals/README.md)       | --- | --- | Use template literals to combine strings in JavaScript.                                                               |
-| [Reference Data Types](./reference-data-types/README.md) | --- | --- | Create and use objects in JavaScript.                                                                                 |
-|  **Total Module**                                        | --- | --- | ---                                                                                                                   |
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment      |
+| [Concepts](./concepts/README.md)                         | -- | -- | Introduction to JavaScript and its role in web development |
+| [Fundamentals](./fundamentals/README.md)                 | -- | -- | Using comments and basic console logging in JavaScript     |
+| [Variables](./variables/README.md)                       | -- | -- | JavaScript variables: let and const declarations, naming conventions, and assignment |
+| [Primitive Data Types](./primitive-data-types/README.md) | -- | -- | Primitive data types in JavaScript: string, number, boolean, null, and undefined     |
+| [Template Literals](./template-literals/README.md)       | -- | -- | Combining strings using template literals  |
+| [Reference Data Types](./reference-data-types/README.md) | -- | -- | Introduction to reference data types in JavaScript  |
+|  **Total Module**                                        | -- | -- |                    |
 
-## Additional content 
+## Level Up content
+
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [History of JavaScript](./level-up/history-of-js.md) | -- | -- | history and evolution of JavaScript, including its origins |
+| [Dynamic vs. Static Typed Languages](./level-up/dynamic-vs-static-typed-languages.md) | -- | -- | Difference between dynamically-typed and statically-typed programming languages, |
+| [Weak vs. Strong Typed Languages](./level-up/weak-vs-strong-typed-languages.md) | -- | -- | Difference between weakly-typed and strongly-typed programming languages |
+| [Primitive vs. Reference Types](./level-up/primitive-vs-reference-types.md) | -- | -- | Differences between primitive and reference types in JavaScript |
+| [Implicit and Explicit Type Conversion](./level-up/implicit-and-explicit-type-conversion.md) | -- | -- | Concepts of implicit and explicit type conversion |
+|  **Bonus**         | -- | -- |                    |
+
+## References
 
 📖 [Reference Materials](./references/README.md)
-
-### 🚀 Level Up
-
-- [History of JavaScript](./level-up/history-of-js.md)
-- [Dynamic vs. Static Typed Languages](./level-up/dynamic-vs-static-typed-languages.md)
-- [Weak vs. Strong Typed Languages](./level-up/weak-vs-strong-typed-languages.md)
-- [Primitive vs. Reference Types](./level-up/primitive-vs-reference-types.md)
-- [Implicit and Explicit Type Conversion](./level-up/implicit-and-explicit-type-conversion.md)
 
 ## Internal resources
 

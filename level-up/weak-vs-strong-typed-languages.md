@@ -1,5 +1,7 @@
 # ![Intro to JavaScript - Level Up - Weakly vs. Strongly Typed Languages](./assets/hero-weakly-vs-strongly-typed.png)
 
+**Learning objective:** By the end of this lesson, students will understand the fundamental difference between weakly-typed and strongly-typed programming languages, with examples from JavaScript and Python.
+
 *Weakly-typed* languages such as JavaScript allow implicit conversions between types, which can lead to interesting results. For example:
 
 ```js

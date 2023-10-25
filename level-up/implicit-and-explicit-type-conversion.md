@@ -1,5 +1,7 @@
 # ![Intro to JavaScript - Level Up - Implicit and Explicit Type Conversion](./implicit-and-explicit-type-conversion.md)
 
+**Learning objective:** By the end of this lesson, students will understand the concepts of implicit and explicit type conversion in JavaScript, when and why they occur, and how to perform explicit type conversion when needed.
+
 ## Type Conversion
 
 JavaScript is very relaxed when it comes to data types. Contrary to non-dynamic languages, a variable can change its type.

@@ -1,6 +1,6 @@
 # ![Intro to JavaScript - Fundamentals](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will learn the basics of JavaScript programming, including comments and outputting results to the console.
+**Learning objective:** By the end of this lesson, students will be able to utilize comments for code documentation and print to the console for debugging.
 
 ## Making Comments
 
