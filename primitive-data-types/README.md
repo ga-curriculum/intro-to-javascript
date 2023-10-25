@@ -76,7 +76,7 @@ console.log(cohort);
 
 > ❓ Do all variables have a data type?
 
-## 🧠 You do 
+## You do 
 
 Strings, numbers, and booleans are the most common data types used to model real-world application data.
 
