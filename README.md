@@ -8,7 +8,7 @@ This module offers a comprehensive introduction to JavaScript for learners at th
 
 None
 
-## Content outline
+## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
@@ -25,8 +25,8 @@ None
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [History of JavaScript](./level-up/history-of-js.md) | -- | -- | History and evolution of JavaScript, including its origins |
-| [Dynamic vs. Static Typed Languages](./level-up/dynamic-vs-static-typed-languages.md) | -- | -- | Difference between dynamically-typed and statically-typed programming languages, |
+| [History of JavaScript](./level-up/history-of-js.md) | -- | -- | History and evolution of JavaScript and its origins |
+| [Dynamic vs. Static Typed Languages](./level-up/dynamic-vs-static-typed-languages.md) | -- | -- | Difference between dynamically-typed and statically-typed programming languages |
 | [Weak vs. Strong Typed Languages](./level-up/weak-vs-strong-typed-languages.md) | -- | -- | Difference between weakly-typed and strongly-typed programming languages |
 | [Primitive vs. Reference Types](./level-up/primitive-vs-reference-types.md) | -- | -- | Differences between primitive and reference types in JavaScript |
 | [Implicit and Explicit Type Conversion](./level-up/implicit-and-explicit-type-conversion.md) | -- | -- | Concepts of implicit and explicit type conversion |
