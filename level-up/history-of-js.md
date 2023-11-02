@@ -13,3 +13,5 @@ In 1997, Netscape contacted the European Computer Manufacturers Association (ECM
 At the close of the 2000s, JavaScript leaped out of the browser with the introduction of Node.js. Finally, the introduction of ES2015 (ES6 at the time) added many requested features to the language and solidified JavaScript's place in history as a versatile and powerful programming language.
 
 Today, JavaScript is one of the most popular and in-demand programming languages. Alongside HTML and CSS, it is one of the foundational technologies of the modern web.
+
+The JavaScript specification is typically updated annually, and is managed by [Ecma International's TC39 committee](https://www.ecma-international.org/technical-committees/tc39/?tab=general). While the specification is commonly referred to as JavaScript it is more technically known as ECMAScript.

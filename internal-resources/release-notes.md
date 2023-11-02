@@ -24,5 +24,7 @@ This release modularizes the legacy Intro to JavaScript & Data Types lecture and
 
 - Remove most content covering reference data types.
 - Remove `var` content.
-- Remove most discussion on Symbols and BigInts.
+- Remove most discussion on `Symbols` and `BigInts`.
 - Remove scope content from level up as this has its own module.
+- Remove discussion of reference data types, those will be introduced in other modules.
+- Remove `typeof null` content

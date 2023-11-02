@@ -43,21 +43,21 @@ To convert into strings:
 
   ```js
   let numOne = 123.456;
-  let strOne = n.toString(); // "123.456"
+  let strOne = numOne.toString(); // "123.456"
   ```
 
 - using the `String()` method
 
   ```js
   let numTwo = 123.456;
-  let strTwo = String(n); // "123.456"
+  let strTwo = String(numTwo); // "123.456"
   ```
 
 - using the `toFixed()` method
 
   ```js
   let numThree = 123.456;
-  let strThree = n.toFixed(2); // "123.46"
+  let strThree = numThree.toFixed(2); // "123.46"
   ```
 
   Note that we must specify the number of decimals we want inside the `()`'s.
@@ -68,7 +68,7 @@ To convert into numbers:
 
   ```js
   let strFour = '1234.567';
-  let numFour = parseInt(s); // 1234
+  let numFour = parseInt(strFour); // 1234
   ```
   `parseInt()` rounds down to the nearest whole number. 
 
@@ -76,14 +76,14 @@ To convert into numbers:
 
   ```js
   let strFive = '1234.567';
-  let numFive = parseFloat(s); // 1234.567
+  let numFive = parseFloat(strFive); // 1234.567
   ```
 
 - using the `Number()` method
 
   ```js
   let strSix = '1234.567';
-  let numSix = Number(n); // 1234.567
+  let numSix = Number(strSix); // 1234.567
   ```
 
 ## When to use implicit and explicit type conversion

@@ -8,7 +8,7 @@ The purpose of a [*variable*](https://developer.mozilla.org/en-US/docs/Web/JavaS
 
 > 📚 A *variable* is a named container used to store and retrieve data used within a program.
 
-We use the `let` or `const` keyword to declare a variable in JavaScript. These are special keywords known as *declarations*. The variable name or *identifier* follows the declaration.
+We use the `let` or `const` (short for constant) keyword to declare a variable in JavaScript. These are special keywords known as *declarations*. The variable name or *identifier* follows the declaration.
 
 > 📚 A *declaration* is used to indicate a variable is being created. An *identifier* is then used to identify a variable.  
 
