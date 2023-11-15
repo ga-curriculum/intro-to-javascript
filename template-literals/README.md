@@ -38,7 +38,7 @@ We're happy to have you.`;
 
 Attempting this with a normal string will cause an error.
 
-## You Do
+## 🎓 You Do
 
 Make use of template literals by sending a greeting to a friend!
 
