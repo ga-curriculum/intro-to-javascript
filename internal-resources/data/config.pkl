@@ -33,5 +33,29 @@ courses {
       mls.implicitAndExplicitTypeConversion
     }
   }
+  new {
+    name = "seb"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.concepts
+      mls.fundamentals
+      mls.variables
+      mls.primitiveDataTypes
+      mls.templateLiterals
+      (mls.historyOfJs) {
+        type = "Level Up content"
+      }
+      (mls.dynamicVsStaticTypedLanguages) {
+        type = "Level Up content"
+      }
+      (mls.weakVsStrongTypedLanguages) {
+        type = "Level Up content"
+      }
+      (mls.implicitAndExplicitTypeConversion) {
+        type = "Level Up content"
+      }
+    }
+  }
 }
 
