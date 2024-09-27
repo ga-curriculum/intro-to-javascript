@@ -1,13 +1,16 @@
-# ![Intro to JavaScript](../assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Intro to JavaScript</span>
+</h1>
 
 ## About
 
-This module offers a comprehensive introduction to JavaScript for learners at the beginner to intermediate level. Whether learners are new to programming or looking to enhance their JavaScript skills, this module provides a well-rounded foundation. 
+This module offers a comprehensive introduction to JavaScript for learners at the beginner to intermediate level. Whether learners are new to programming or looking to enhance their JavaScript skills, this module provides a well-rounded foundation.
 
 ## Content
 
-| Lesson | Skills |
-| ------ | ------ |
+| Lesson                                                    | Skills                                                                               |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [Setup](../setup/README.md)                               | Setting up the development environment                                               |
 | [Concepts](../concepts/README.md)                         | Introduction to JavaScript and its role in web development                           |
 | [Fundamentals](../fundamentals/README.md)                 | Using comments and basic console logging in JavaScript                               |
@@ -17,8 +20,8 @@ This module offers a comprehensive introduction to JavaScript for learners at th
 
 ## Level Up content
 
-| Lesson | Skills |
-| ------ | ------ |
+| Lesson                                                                                        | Skills                                                                          |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | [History of JavaScript](../level-up/history-of-js.md)                                         | History and evolution of JavaScript and its origins                             |
 | [Dynamic vs. Static Typed Languages](../level-up/dynamic-vs-static-typed-languages.md)        | Difference between dynamically-typed and statically-typed programming languages |
 | [Weak vs. Strong Typed Languages](../level-up/weak-vs-strong-typed-languages.md)              | Difference between weakly-typed and strongly-typed programming languages        |

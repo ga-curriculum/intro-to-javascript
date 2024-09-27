@@ -1,4 +1,7 @@
-# ![Intro to JavaScript - Level Up - Dynamic vs. Static Typed Languages](./assets/hero-dynamic-vs-static-typed.png)
+<h1>
+  <span class="headline">Intro to JavaScript</span>
+  <span class="subhead">Dynamic vs Static Typed Languages</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will understand the fundamental difference between dynamically-typed and statically-typed programming languages, with examples from JavaScript and C++.
 

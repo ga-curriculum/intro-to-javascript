@@ -1,4 +1,7 @@
-# ![Intro to JavaScript - Level Up - History of JavaScript](./assets/hero-history-of-javascript.png)
+<h1>
+  <span class="headline">Intro to JavaScript</span>
+  <span class="subhead">History of JavaScript</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will understand the history and evolution of JavaScript, from its origins at Netscape to its current status as a popular and versatile programming language.
 

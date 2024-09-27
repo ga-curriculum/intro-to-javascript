@@ -1,4 +1,7 @@
-# ![Intro to JavaScript - Level Up - Implicit and Explicit Type Conversion](./assets/hero-implicit-and-explicit.png)
+<h1>
+  <span class="headline">Intro to JavaScript</span>
+  <span class="subhead">Implicit and Explicit Type Conversion</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will understand the concepts of implicit and explicit type conversion in JavaScript, when and why they occur, and how to perform explicit type conversion when needed.
 

@@ -1,4 +1,7 @@
-# ![Intro to JavaScript - Instructor Guide](./assets/hero-instructor-guide.png)
+<h1>
+  <span class="headline">Intro to JavaScript</span>
+  <span class="subhead">Instructor Guide</span>
+</h1>
 
 tktk
 

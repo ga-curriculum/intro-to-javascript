@@ -1,4 +1,7 @@
-# ![Intro to JavaScript - Primitive Data Types](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript</span>
+  <span class="subhead">Primitive Data Types</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to declare and use primitive data types in JavaScript.
 

@@ -1,0 +1,74 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+fundamentals = new Template.Microlesson {
+  friendlyName = "Fundamentals"
+  dirName = "fundamentals"
+  type = "Content"
+  videoUrl = ""
+}
+
+variables = new Template.Microlesson {
+  friendlyName = "Variables"
+  dirName = "variables"
+  type = "Content"
+  videoUrl = ""
+}
+
+primitiveDataTypes = new Template.Microlesson {
+  friendlyName = "Primitive Data Types"
+  dirName = "primitive-data-types"
+  type = "Content"
+  videoUrl = ""
+}
+
+templateLiterals = new Template.Microlesson {
+  friendlyName = "Template Literals"
+  dirName = "template-literals"
+  type = "Content"
+  videoUrl = ""
+}
+
+historyOfJs = new Template.Microlesson {
+  friendlyName = "History of JavaScript"
+  dirName = "history-of-js"
+  type = "Content"
+  videoUrl = ""
+}
+
+dynamicVsStaticTypedLanguages = new Template.Microlesson {
+  friendlyName = "Dynamic vs Static Typed Languages"
+  dirName = "dynamic-vs-static-typed-languages"
+  type = "Content"
+  videoUrl = ""
+}
+
+weakVsStrongTypedLanguages = new Template.Microlesson {
+  friendlyName = "Weak vs Strong Typed Languages"
+  dirName = "weak-vs-strong-typed-languages"
+  type = "Content"
+  videoUrl = ""
+}
+
+implicitAndExplicitTypeConversion = new Template.Microlesson {
+  friendlyName = "Implicit and Explicit Type Conversion"
+  dirName = "implicit-and-explicit-type-conversion"
+  type = "Content"
+  videoUrl = ""
+}
+
