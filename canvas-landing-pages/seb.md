@@ -20,12 +20,12 @@ This module offers a comprehensive introduction to JavaScript for learners at th
 
 ## Level Up content
 
-| Lesson                                                                                        | Skills                                                                          |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [History of JavaScript](../level-up/history-of-js.md)                                         | History and evolution of JavaScript and its origins                             |
-| [Dynamic vs. Static Typed Languages](../level-up/dynamic-vs-static-typed-languages.md)        | Difference between dynamically-typed and statically-typed programming languages |
-| [Weak vs. Strong Typed Languages](../level-up/weak-vs-strong-typed-languages.md)              | Difference between weakly-typed and strongly-typed programming languages        |
-| [Implicit and Explicit Type Conversion](../level-up/implicit-and-explicit-type-conversion.md) | Concepts of implicit and explicit type conversion                               |
+| Lesson                                                                                      | Skills                                                                          |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [History of JavaScript](../history-of-js/README.md)                                         | History and evolution of JavaScript and its origins                             |
+| [Dynamic vs. Static Typed Languages](../dynamic-vs-static-typed-languages/README.md)        | Difference between dynamically-typed and statically-typed programming languages |
+| [Weak vs. Strong Typed Languages](../weak-vs-strong-typed-languages/README.md)              | Difference between weakly-typed and strongly-typed programming languages        |
+| [Implicit and Explicit Type Conversion](../implicit-and-explicit-type-conversion/README.md) | Concepts of implicit and explicit type conversion                               |
 
 ## References
 
