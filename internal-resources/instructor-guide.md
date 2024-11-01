@@ -1,6 +1,9 @@
-# ![Intro to JavaScript - Instructor Guide](./assets/hero-instructor-guide.png)
+<h1>
+  <span class="headline">Intro to JavaScript</span>
+  <span class="subhead">Instructor Guide</span>
+</h1>
 
-tktk
+**_Nothing here yet._**
 
 ---
 
@@ -8,4 +11,4 @@ tktk
 
 We are constantly working to improve our resources for instructors and students.
 
-**Have something to contribute to this Instructor Guide?** [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/TEMPLATE-Lab-Solution-Code-Module).
+**Have something to contribute to this Instructor Guide?** [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback).

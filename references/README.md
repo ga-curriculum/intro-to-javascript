@@ -1,4 +1,7 @@
-# ![Intro to JavaScript - References](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 
@@ -7,9 +10,6 @@ Links from the module lesson content:
 - [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [MDN - Variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#declarations)
 - [MDN - Reserved words](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#keywords)
-
-## Level Up references
-
 - [Ecma International's TC39 committee](https://www.ecma-international.org/technical-committees/tc39/?tab=general)
 
 ## Online resources

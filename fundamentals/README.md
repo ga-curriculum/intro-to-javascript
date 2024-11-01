@@ -1,4 +1,7 @@
-# ![Intro to JavaScript - Fundamentals](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript</span>
+  <span class="subhead">Fundamentals</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to utilize comments for code documentation and print to the console for debugging.
 

@@ -1,4 +1,7 @@
-# ![Intro to JavaScript - Concepts](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to JavaScript</span>
+  <span class="subhead">Concepts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to describe the role of JavaScript in web development and its significance in both client-side and server-side applications.
 
