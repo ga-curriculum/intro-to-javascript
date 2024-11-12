@@ -35,7 +35,7 @@ This module offers a comprehensive introduction to JavaScript for learners at th
 ### Course landing pages
 
 - [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript/canvas-landing-pages/fallback)
-- [SEB - Software Engineering Bootcamp](./canvas-landing-pages/seb.html)
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript/canvas-landing-pages/seb.html)
 
 ### Resources
 
